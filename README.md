@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
-# Desafio Fundamento NodeJS
+# Desafio Fundamentos NodeJS
 
 Nesse desafio, criei uma aplicação para continuar treinando o que aprendi até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
 
